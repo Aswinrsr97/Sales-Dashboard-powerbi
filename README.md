@@ -2,6 +2,7 @@
 ## Project Description
 This interactive Power-bi dashboard offers a consolidated view of Sales performance, built to support management and operations teams in tracking Sales metrics, analyzing trends, and identifying bottlenecks in the business .
 ## Data used
-
+https://github.com/Aswinrsr97/Sales-Dashboard-powerbi/blob/main/Superstore%20Dataset.xls
+## KPI
 
 
