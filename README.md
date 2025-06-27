@@ -16,6 +16,7 @@ Total Sales Vs Total Profit
 Segment wise Sales
 Region wise Sales
 Bottom 5 sales  city wise
+## Dashboard interaction 
 
 
 
