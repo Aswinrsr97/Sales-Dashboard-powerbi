@@ -12,5 +12,10 @@ Total Return
 Total Sales By category
 Top 5 sales City wise
 Top 5 sales State wise
+Total Sales Vs Total Profit
+Segment wise Sales
+Region wise Sales
+Bottom 5 sales  city wise
+
 
 
