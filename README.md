@@ -5,16 +5,27 @@ This interactive Power-bi dashboard offers a consolidated view of Sales performa
 https://github.com/Aswinrsr97/Sales-Dashboard-powerbi/blob/main/Superstore%20Dataset.xls
 ## KPI
 Total Sales
+
 Total Profit
+
 Total discount
+
 Total Quantity Sold
+
 Total Return
+
 Total Sales By category
+
 Top 5 sales City wise
+
 Top 5 sales State wise
+
 Total Sales Vs Total Profit
+
 Segment wise Sales
+
 Region wise Sales
+
 Bottom 5 sales  city wise
 ## Dashboard interaction 
 https://github.com/Aswinrsr97/Sales-Dashboard-powerbi/blob/main/dashboard%20(2)%20(1).pbix
