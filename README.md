@@ -66,6 +66,15 @@ The bottom 5 cities had notably low performance, indicating potential areas for 
 ## Sales Trend Over Time (2014–2017):
 There is a steady growth in sales and profit, with 2017 marking the highest figures (372.26K sales and 97.82K profit).
 
+## Recommendations:
+Focus on Top Segments and Categories – Leverage the performance of the Consumer segment and Technology category through targeted campaigns.
+
+Address Return Rate – With 296 returns, product quality or expectation mismatch should be investigated.
+
+Explore Underperforming Cities – Develop regional strategies to improve sales in the bottom 5 cities.
+
+Optimize Shipping Options – Encourage higher usage of profitable or cost-effective shipping modes.
+
 
 
 
