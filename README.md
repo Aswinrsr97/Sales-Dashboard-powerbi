@@ -25,6 +25,11 @@ https://github.com/Aswinrsr97/Sales-Dashboard-powerbi/blob/main/dashboard%20(2)%
 •	Created visualisation in powerbi desktop report
 •	Uploaded the visualisation in powerbi online services 
 •	Created dashboard
+# Dashboard Picture 
+# Findings
+The company generated sales of 1.10 million, earning a total profit of 132.52 thousand. Out of 5,000 products sold, 296 were returned.
+Conclusion :
+
 
 
 
