@@ -28,8 +28,33 @@ https://github.com/Aswinrsr97/Sales-Dashboard-powerbi/blob/main/dashboard%20(2)%
 ## Dashboard Picture 
 https://github.com/Aswinrsr97/Sales-Dashboard-powerbi/blob/main/dashboard%20sales%20pic.jpg
 # Findings
-The company generated sales of 1.10 million, earning a total profit of 132.52 thousand. Out of 5,000 products sold, 296 were returned.
-Conclusion :
+## Key Insights:
+Top Performing Segment:
+The Consumer segment led the sales with 558K, followed by Corporate (343K) and Home Office (189K).
+
+## Sales by Category:
+
+Technology was the leading category with 34.61% of total sales.
+
+Office Supplies (31.43%) and Furniture (33.96%) followed closely, indicating balanced sales across categories.
+
+## Shipping Preference:
+
+Most sales occurred via Standard Class (222.05K) and Second Class (64.16K).
+
+Same Day deliveries were the least utilized (62.99K), possibly due to higher shipping costs or limited availability.
+
+## Geographical Insights:
+
+California emerged as the top-performing state, contributing significantly to overall sales.
+
+West and East regions were the strongest in terms of regional sales.
+
+The bottom 5 cities had notably low performance, indicating potential areas for marketing improvement.
+
+## Sales Trend Over Time (2014–2017):
+There is a steady growth in sales and profit, with 2017 marking the highest figures (372.26K sales and 97.82K profit).
+
 
 
 
