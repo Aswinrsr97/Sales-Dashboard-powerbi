@@ -9,5 +9,8 @@ Total Profit
 Total discount
 Total Quantity Sold
 Total Return
+Total Sales By category
+Top 5 sales City wise
+Top 5 sales State wise
 
 
