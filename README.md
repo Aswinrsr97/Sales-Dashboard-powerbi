@@ -4,5 +4,10 @@ This interactive Power-bi dashboard offers a consolidated view of Sales performa
 ## Data used
 https://github.com/Aswinrsr97/Sales-Dashboard-powerbi/blob/main/Superstore%20Dataset.xls
 ## KPI
+Total Sales
+Total Profit
+Total discount
+Total Quantity Sold
+Total Return
 
 
