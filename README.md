@@ -20,11 +20,11 @@ Bottom 5 sales  city wise
 https://github.com/Aswinrsr97/Sales-Dashboard-powerbi/blob/main/dashboard%20(2)%20(1).pbix
 # Process
 ## use import mode to import the excel file into power query
-Make sure data has been cleaned and the null values  are handled 
-Usedstar Schema method to determine the connections 
-Created visualisation in powerbi desktop report
-Uploaded the visualisation in powerbi online services 
-Created dashboard
+### Make sure data has been cleaned and the null values  are handled 
+### Usedstar Schema method to determine the connections 
+### Created visualisation in powerbi desktop report
+### Uploaded the visualisation in powerbi online services 
+### Created dashboard
 
 
 
